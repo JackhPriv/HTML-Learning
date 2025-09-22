@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title> Tasty Halloumi Wraps </title>
+<meta charset="UTF-8">
+      </head>
+      
+      <body>
+<h1> Tasty Halloumi Wraps </h1>
+<p> What's to say? It's hallumi in a wrap </p>
+
+<h2> Ingredients </h2>
+<ul>
+<li> Halloumi </li>
+<li> Veg to stir fry </li>
+<li>Flour and Water for Wraps  </li>
+<li> Oil or butter to taste </li>
+<li>Salt  </li>
+  </ul>
+
+  <h2> Instructions </h2>
+  <ol>
+<li> Mix flour and Water and salt </li>
+<li> Knead dough then leave to rest </li>
+<li> Fry Halloumi and veg </li>
+<li> Roll dough out into wrap shape and fry </li>
+<li> Put together - Enjoy! </li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Tasty Hallumi Wraps">
+        </body>
+        </html>
+
+** end of index.html **
+
