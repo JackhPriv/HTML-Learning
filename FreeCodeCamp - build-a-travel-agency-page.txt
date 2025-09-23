@@ -1,0 +1,45 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Travel Agency">
+<title> Travel Agency Page </title>
+
+</head>
+<body>
+<h1>Destinations </h1>
+<p> Travel Opportunities available here, including Paris and Milan </p>
+
+<h2> Packages </h2>
+
+<p> Various Packages available here </p>
+
+<ul>
+<li> <a href="https://www.freecodecamp.org/learn" target="_blank"> Group Travels </a>  </li>
+
+<li> <a href="https://www.freecodecamp.org/learn" target="_blank"> Private Tours </a> </li>
+
+  </ul>
+
+  <h2>Top Itineraries </h2>
+
+
+  <figure> <a href="https://www.freecodecamp.org/learn"  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/TourEiffelLC.JPG/250px-TourEiffelLC.JPG" alt="Tower"> </a> <figcaption> Welcome to Paris </figcaption>   </figure>
+
+
+ <figure>  <a href="https://www.freecodecamp.org/learn"  target="_blank"> <img src="https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_1:1,w_640,g_auto/f_auto/q_auto/v1/gc-v1/paris-pass/Sans%20titre%20(6)?_a=BAVAZGE70" alt="Building"> </a> <figcaption> Paris 2 </figcaption> </figure>
+ 
+ <figure> <a href="https://www.freecodecamp.org/learn"  target="_blank"> <img src="https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_1:1,w_640,g_auto/f_auto/q_auto/v1/gc-v1/paris/3%20giorni%20a%20Parigi%20Tour%20Eiffel?_a=BAVAZGE70"  alt="Tower"> </a> <figcaption>  Paris 3 </figcaption> </figure>
+  
+
+  
+  </body>
+
+  
+ 
+  </html>
+
+** end of index.html **
+
