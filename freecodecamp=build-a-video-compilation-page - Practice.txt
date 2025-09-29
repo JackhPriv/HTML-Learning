@@ -1,0 +1,51 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+  <h1>Videos</h1>
+  <p> This is where videos go </p>
+
+    <section>
+    <h2> First Section </h2>
+    <p> Introduction to videos in this section </p>
+    <iframe src="https://www.youtube.com/embed/shorts/EEKgLJWM5yc" title="Short I made"
+    height="240"
+    width="240"
+    ></iframe>
+    </section>
+    
+    <section>
+    <h2> Second Section </h2>
+    <p> Introduction to videos in this section </p>
+    <iframe src="https://www.youtube.com/embed/shorts/EL1Lsn27kSE"
+    title="Short I made"
+    height="240"
+    width="240"
+    ></iframe>
+    </section>
+    
+    <section>
+    <h2> Third Section </h2>
+    <p> Introduction to videos in this section </p>
+    <iframe src="https://www.youtube.com/embed/watch?v=qM4uxB5YmA4"
+    title="Short I made"
+    height="240"
+    width="240"
+    ></iframe>
+    </section>
+
+ </main>
+</body>
+
+</html>
+
+** end of index.html **
+
